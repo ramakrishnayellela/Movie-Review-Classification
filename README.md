@@ -9,7 +9,7 @@ Recurrent Neural Networks (RNN): Utilizes RNN architecture for sequence modeling
 Preprocessed Dataset: Implements data preprocessing techniques like tokenization, padding, and word embeddings.
 Streamlit Deployment: Offers a user-friendly web interface for inputting and analyzing reviews in real time.
 
-# # Tools & Technologies:
+# Tools & Technologies:
 TensorFlow/Keras: For building and training the RNN model.
 Python Libraries: NumPy, Pandas, Matplotlib, and more for data preprocessing and visualization.
 Streamlit: For deploying the web application.
