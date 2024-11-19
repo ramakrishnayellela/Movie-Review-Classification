@@ -20,3 +20,5 @@ Input a Review: Users can input their own movie review through the web app.
 Text Preprocessing: The app preprocesses the input review, including tokenization and padding.
 Prediction: The trained RNN model predicts whether the review is positive or negative.
 Output: The app displays the sentiment result (e.g., Positive or Negative) with confidence scores.
+
+![image](https://github.com/user-attachments/assets/952a7b9a-b37c-4cae-a642-cf83a3fe6e30)
